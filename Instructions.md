@@ -21,3 +21,7 @@ you will push your branch to 'origin' (this shared repo) and issue a pull-reques
 into master in the shared repo.  Then everyone can update to your shared code.  I'll give detailed instructions soon.
 
 Please see me or email to ask about using GitHub to coordinate your coding. Don't let it stop you from writing code!
+
+At the end of the project I will send you a survey that will help me calculate your grade on this assignment.  Keep an eye out for the email late in November.
+
+**Please remember that this project must be the original work of you and your team.  While you can look for ideas and research technology on the Internet, the code you submit must be your own original work.**
