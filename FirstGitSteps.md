@@ -52,4 +52,4 @@ After merging your changes into master in the remote repo, do the following to u
 * git pull
 * git checkout MY_USERNAME 
 * git merge master
-* git commit -m "<<put your message here>>"
+* git commit -m "put your message here"
