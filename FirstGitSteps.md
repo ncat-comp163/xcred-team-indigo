@@ -11,13 +11,17 @@ The main actions you'll require are:
 
 # Set up local repo
 
+Review this image to see parts of the GitHub page for your team's repository: [GitHub repo image](git-repo-url.png).
+
 In the command/terminal window, issue the following commands to clone the remote repo and use your branch. 
-Replace REMOTE_REPO with the URL of your team's repo.  Figure out the name of the local repo and use it 
-in place of LOCAL_REPO.  Replace MY_USERNAME with the part of your @aggies.ncat.edu email 
-before the @ sign. (E.g. for defoulser@aggies.ncat.edu --> Replace MY_USERNAME with dfoulser):
+Replace REMOTE_URL with the URL of your team's repo.  Find this URL by clicking the "Clone or download" button in the image.
+Figure out the name of the local repo (top left in the image) and use it in place of LOCAL_REPO.  
+Replace MY_USERNAME as branch name with the part of your @aggies.ncat.edu email 
+before the @ sign. (E.g. for defoulser@aggies.ncat.edu --> Replace MY_USERNAME with dfoulser).  Make sure this is one
+of the branches in the menu of branches at lower left in the image.
 
 * cd ~
-* git clone REMOTE_REPO
+* git clone REMOTE_URL
 * cd LOCAL_REPO
 * git checkout -b MY_USERNAME
 
